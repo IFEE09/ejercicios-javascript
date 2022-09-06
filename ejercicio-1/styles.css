@@ -31,7 +31,7 @@ input {
     border: 1.5px solid rgb(0,0,0,0.15);
     background: rgb(0,0,0, 0.15);
     transition: 0.1s;
-    color: white;
+    color: black;
     font-weight: bolder;
 }
 
@@ -39,7 +39,7 @@ input {
     padding: 0.2em 6.66em;
     transition: 0.1s;
     border: none;
-    background-color: rgb(156, 155, 155);
+    background-color: rgb(122, 122, 122);
     color: rgb(250, 248, 248);
     font-weight: bold;
     
