@@ -6,5 +6,6 @@ function inputVacio() {
     if(inputNombre === "" || inputNombre === null) {
         inputNombre.classList.add("input-vacio");
     }
+ 
     
 }
